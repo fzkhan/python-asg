@@ -32,7 +32,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 
 
-class Interpolate:
+class Interpolate():
     ls_1, ls_2, ls_3 = [], [], []
     x = sp.Symbol('x')
 
